@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "from": "adityamore.se@gmail.com",
+    "to": "user2@example.com",
+    "subject": "First Email",
+    "body": "This is the first email",
+    "date": "2024-10-20T12:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "from": "user3@example.com",
+    "to": "user1@example.com",
+    "subject": "Second Email",
+    "body": "This is the second email",
+    "date": "2024-10-20T13:00:00.000Z"
+  }
+]
